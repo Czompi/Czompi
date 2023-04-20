@@ -1,10 +1,10 @@
 # Hi there 👋
 
-My name is David and I'm a 24 years old undergraduate Computer Science Engineering student at [University of Pécs Faculty of Engineering and Information Technology](https://english.mik.pte.hu/).
+My name is David and I'm a 24-years-old undergraduate Computer Science Engineering student at [University of Pécs Faculty of Engineering and Information Technology](https://english.mik.pte.hu/).
 
 My main expertise is C# developer, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) and creating ASP.NET Core apps.
 
-My [website](https://czompi.eu/) is written by me from [frontend to backend](https://github.com/CzompiSoftware/CWCT-MA), and it is powered by ASP.NET Core.
+My [website](https://czompi.eu/) is written by me [from frontend to backend](https://github.com/CzompiSoftware/CWCT-MA), and it is powered by ASP.NET Core.
 
 The project, that I'm currently working on is [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd))
 
@@ -13,6 +13,9 @@ I’m currently learning [Microsoft MAUI](https://dotnet.microsoft.com/en-us/app
 ## Programming experience
 ### C#
 <div id="csharp-badges">
+  <img src="https://img.shields.io/static/v1?label=&message=.NET%20Core%203.1&color=0a4591&style=flat-square" alt=".NET Core 3.1"/>
+  <img src="https://img.shields.io/static/v1?label=&message=.NET%205.0&color=0a4591&style=flat-square" alt=".NET 5.0"/>
+  <img src="https://img.shields.io/static/v1?label=&message=.NET%206.0&color=0a4591&style=flat-square" alt=".NET 6.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=.NET%207.0&color=0a4591&style=flat-square" alt=".NET 7.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=.NET%208.0%20Preview&color=0a4591&style=flat-square" alt=".NET 8.0 Preview"/>
   <img src="https://img.shields.io/static/v1?label=&message=C%23%2011.0&color=0a4591&style=flat-square" alt="C# 11.0"/>
