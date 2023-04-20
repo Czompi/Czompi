@@ -6,7 +6,7 @@ My main expertise is C# developer, where I mainly focus on cross-platform app de
 
 My [website](https://czompi.eu/) is written by me [from frontend to backend](https://github.com/CzompiSoftware/CWCT-MA), and it is powered by ASP.NET Core.
 
-The project, that I'm currently working on is [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd))
+The project, that I'm currently working on is [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) or [CzomPack](https://github.com/CzompiSoftware/CzomPack))
 
 I’m currently learning [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui) app development and just recently started to dip into the Java webapp world by learning [Spring Boot](https://spring.io) framework as well
 
