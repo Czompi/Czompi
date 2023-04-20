@@ -4,7 +4,7 @@ My name is David and I'm a 24-years-old undergraduate Computer Science Engineeri
 
 My main expertise is C# developer, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) and creating ASP.NET Core apps.
 
-My [website](https://czompi.eu/) is written by me [from frontend to backend](https://github.com/CzompiSoftware/CWCT-MA), and it is powered by ASP.NET Core.
+My [website](https://czompi.eu/) is written by me, and it is powered by ASP.NET Core. You can find it's source code [here](https://github.com/CzompiSoftware/CWCT-MA).
 
 The project, that I'm currently working on is [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) or [CzomPack](https://github.com/CzompiSoftware/CzomPack))
 
