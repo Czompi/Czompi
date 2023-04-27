@@ -2,13 +2,15 @@
 
 My name is David and I'm a 24-years-old undergraduate Computer Science Engineering student at [University of Pécs Faculty of Engineering and Information Technology](https://english.mik.pte.hu/).
 
-My main expertise is in C# development, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) or web applications in ASP.NET Core.
+My field of study will be application developer, and main expertise is in C# development, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) or creating web applications in [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) (just like this site, if you're reading this on [czompi.eu](https://czompi.eu/)).
 
-My [website](https://czompi.eu/) is written by me, and it is powered by ASP.NET Core. You can find it's source code [here](https://github.com/CzompiSoftware/CWCT-MA).
+Like I mentioned before, this [website](https://czompi.eu/) is written by me, and it's powered by ASP.NET Core, currently running on .NET 7.0 - inside an alpine-based docker image -, but I plan to update it to .NET 8.0, when it comes out. It's source code [lives here](https://github.com/CzompiSoftware/CWCT-MA).
 
 The project, that I'm currently working on is [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) or [CzomPack](https://github.com/CzompiSoftware/CzomPack))
 
-I’m currently learning [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui) app development and just recently started to dip into the Java webapp world by learning [Spring Boot](https://spring.io) framework as well
+I’m currently learning 
+- using [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui) for mobile and desktop application development,
+- and just recently started to dip into the Java webapp world by learning [Spring Framework](https://spring.io) and some of its technologies as well.
 
 ## Development experience
 ### C#
