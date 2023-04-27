@@ -43,8 +43,8 @@ Jelenleg az alábbi technológiákat tanulom:
 
 ### Egyéb készségeim
 <div id="unordered-badges">
-  <img src="https://img.shields.io/static/v1?label=&message=Application%20Development&color=c14f30&style=flat-square" alt="Application Development"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Back-End%20Web%20Development&color=c14f30&style=flat-square" alt="Back-End development"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Front-end%20development&color=c14f30&style=flat-square" alt="Front-end development"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Back-end%20development&color=c14f30&style=flat-square" alt="Back-end development"/>
   <img src="https://img.shields.io/static/v1?label=&message=Computer%20Maintenance&color=c14f30&style=flat-square" alt="Computer Maintenance"/>
   <img src="https://img.shields.io/static/v1?label=&message=Create%20Read%20Update%20Delete%20%28CRUD%29&color=c14f30&style=flat-square" alt="Create Read Update Delete (CRUD)"/>
   <img src="https://img.shields.io/static/v1?label=&message=Database%20Management%20System%20%28DBMS%29&color=c14f30&style=flat-square" alt="Database Management System (DBMS)"/>
