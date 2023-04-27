@@ -5,13 +5,13 @@ Dávid vagyok, egy 24 éves Mérnökinformatikus hallgató a [Pécsi Tudományeg
 Alkalmazásfejlesztő irányba tervezek specializálódni, C# nyelvben fejlesztek a legtöbbet, így abban tartom magam legjobbnak (az általam ismert nyelvek közül).
 C#-ban főként cross-platform alkalmazásfejlesztéssel foglalkozom, mely abból áll, hogy [AvaloniaUI](https://avaloniaui.net/) fejlesztek asztali alkalmazásokat, vagy [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)-ban írok weboldalakat *(például ezt is, amennyiben a [czompi.hu](https://czompi.hu/) oldalon olvasod)*.
 
-Mint az imént említettem, a weboldalam is ASP.NET Core-ban íródott, jelenleg a .NET 7.0-ás keretrendszeren üzemel, de a .NET 8.0-ra a stabil verziónak megjelenés után frissíteni fogom. Az oldalam forráskódja [itt lakik](https://github.com/CzompiSoftware/CWCT-MA).
+Mint az imént említettem, a weboldalam is ASP.NET Core-ban íródott, jelenleg a .NET 7.0-ás keretrendszeren üzemel - egy alpine alapú docker image-ben -, de a .NET 8.0-ra a stabil verziónak megjelenés után frissíteni fogom. Az oldalam forráskódja [itt lakik](https://github.com/CzompiSoftware/CWCT-MA).
 
 A projekt, melyen jelenleg dolgozom, az a [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (én ennek függőségei, mint például a [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) vagy a [CzomPack](https://github.com/CzompiSoftware/CzomPack)).
 
 Jelenleg az alábbi technológiákat tanulom:
 - mobil- és asztali alkalmazás fejlesztése [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui) keretrendszerben,
-- valamint nemrégiben kezdtem elmélyedni a Java webfejlesztés világában a [Spring Boot](https://spring.io) keretrendszeren keresztül.
+- valamint nemrégiben kezdtem elmélyedni a Java webfejlesztés világában a [Spring Framework](https://spring.io)-ön keresztül.
 
 ## Fejlesztési tapasztalatom
 ### C#
