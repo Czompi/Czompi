@@ -3,7 +3,7 @@
 Dávid vagyok, egy 24 éves Mérnökinformatikus hallgató a [Pécsi Tudományegyetem Műszaki és Informatikai Kar](https://mik.pte.hu/)áról.
 
 Alkalmazásfejlesztő irányba tervezek specializálódni, C# nyelvben fejlesztek a legtöbbet, így abban tartom magam legjobbnak (az általam ismert nyelvek közül).
-C#-ban főként cross-platform alkalmazásfejlesztéssel foglalkozom, mely abból áll, hogy [AvaloniaUI](https://avaloniaui.net/) fejlesztek asztali alkalmazásokat, vagy [ASP.NET Core]((https://dotnet.microsoft.com/en-us/apps/aspnet)-ban írok weboldalakat *(például ezt is, amennyiben a [czompi.hu](https://czompi.hu/) oldalon olvasod)*.
+C#-ban főként cross-platform alkalmazásfejlesztéssel foglalkozom, mely abból áll, hogy [AvaloniaUI](https://avaloniaui.net/) fejlesztek asztali alkalmazásokat, vagy [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)-ban írok weboldalakat *(például ezt is, amennyiben a [czompi.hu](https://czompi.hu/) oldalon olvasod)*.
 
 Mint az imént említettem, a weboldalam is ASP.NET Core-ban íródott, jelenleg a .NET 7.0-ás keretrendszeren üzemel, de a .NET 8.0-ra a stabil verziónak megjelenés után frissíteni fogom. Az oldalam forráskódja [itt lakik](https://github.com/CzompiSoftware/CWCT-MA).
 
