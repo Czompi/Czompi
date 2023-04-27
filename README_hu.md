@@ -35,9 +35,10 @@ Jelenleg az alábbi technológiákat tanulom:
 <div id="java-badges">
   <img src="https://img.shields.io/static/v1?label=&message=IntelliJ%20IDEA&color=6aad3d&style=flat-square" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/static/v1?label=&message=Maven&color=6aad3d&style=flat-square" alt="Maven"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Spring&color=6aad3d&style=flat-square" alt="Spring"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Framework&color=6aad3d&style=flat-square" alt="Spring Framework"/>
   <img src="https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6aad3d&style=flat-square" alt="Spring Boot"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Gradle&color=6aad3d&style=flat-square" alt="Gradle"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Data&color=6aad3d&style=flat-square" alt="Spring Data"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Security&color=6aad3d&style=flat-square" alt="Spring Security"/>
   <img src="https://img.shields.io/static/v1?label=&message=Hibernate&color=6aad3d&style=flat-square" alt="Hibernate"/>
 </div>
 
