@@ -2,7 +2,7 @@
 
 My name is David and I'm a 24-years-old undergraduate Computer Science Engineering student at [University of Pécs Faculty of Engineering and Information Technology](https://english.mik.pte.hu/).
 
-My field of study will be application developer, and main expertise is in C# development, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) or creating web applications in [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) (just like this site, if you're reading this on [czompi.eu](https://czompi.eu/)).
+My specialisation will be application developer, and main expertise is in C# development, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) or creating web applications in [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) (just like this site, if you're reading this on [czompi.eu](https://czompi.eu/)).
 
 Like I mentioned before, this [website](https://czompi.eu/) is written by me, and it's powered by ASP.NET Core, currently running on .NET 7.0 - inside an alpine-based docker image -, but I plan to update it to .NET 8.0, when it comes out. It's source code [lives here](https://github.com/CzompiSoftware/CWCT-MA).
 
