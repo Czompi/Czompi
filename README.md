@@ -41,7 +41,7 @@ I’m currently learning [Microsoft MAUI](https://dotnet.microsoft.com/en-us/app
 
 ### Other skills
 <div id="unordered-badges">
-  <img src="https://img.shields.io/static/v1?label=&message=Front-end%20development&color=c14f30&style=flat-square" alt="Front-end development"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Full-stack%20development&color=c14f30&style=flat-square" alt="Full-stack development"/>
   <img src="https://img.shields.io/static/v1?label=&message=Back-end%20development&color=c14f30&style=flat-square" alt="Back-end development"/>
   <img src="https://img.shields.io/static/v1?label=&message=Computer%20Maintenance&color=c14f30&style=flat-square" alt="Computer Maintenance"/>
   <img src="https://img.shields.io/static/v1?label=&message=Create%20Read%20Update%20Delete%20%28CRUD%29&color=c14f30&style=flat-square" alt="Create Read Update Delete (CRUD)"/>
