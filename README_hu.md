@@ -7,7 +7,7 @@ C#-ban főként cross-platform alkalmazásfejlesztéssel foglalkozom, mely abbó
 
 Mint az imént említettem, a weboldalam is ASP.NET Core-ban íródott, jelenleg a .NET 7.0-ás keretrendszeren üzemel - egy alpine alapú docker image-ben -, de a .NET 8.0-ra a stabil verziónak megjelenés után frissíteni fogom. Az oldalam forráskódja [itt lakik](https://github.com/CzompiSoftware/CWCT-MA).
 
-A projekt, melyen jelenleg dolgozom, az a [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (én ennek függőségei, mint például a [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) vagy a [CzomPack](https://github.com/CzompiSoftware/CzomPack)).
+A projekt, melyen jelenleg dolgozom, az a [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (és ennek függőségei, mint például a [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) vagy a [CzomPack](https://github.com/CzompiSoftware/CzomPack)).
 
 Jelenleg az alábbi technológiákat tanulom:
 - mobil- és asztali alkalmazás fejlesztése [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui) keretrendszerben,
