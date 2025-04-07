@@ -1,12 +1,12 @@
 # Hi there 👋
 
-My name is David and I'm a 24-years-old undergraduate Computer Science Engineering student at [University of Pécs Faculty of Engineering and Information Technology](https://english.mik.pte.hu/).
+My name is David and I'm a 26-years-old undergraduate Computer Science Engineering student at [University of Pécs Faculty of Engineering and Information Technology](https://english.mik.pte.hu/).
 
-My specialisation will be application developer, and main expertise is in C# development, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) or creating web applications in [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) (just like this site, if you're reading this on [czompi.eu](https://czompi.eu/)).
+My specialisation will be application developer, and main expertise is in C# development, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) or creating web applications in [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) (just like this site, if you're reading this on [czompi.eu](https://czompi.hu/en/)).
 
-Like I mentioned before, this [website](https://czompi.eu/) is written by me, and it's powered by ASP.NET Core, currently running on .NET 7.0 - inside an alpine-based docker image -, but I plan to update it to .NET 8.0, when it comes out. It's source code [lives here](https://github.com/CzompiSoftware/CWCT-MA).
+Like I mentioned before, this [website](https://czompi.hu/en/) is written by me, and it's powered by ASP.NET Core, currently running on .NET 8.0 - inside an alpine-based docker image -. It's source code [lives here](https://github.com/CzompiSoftware/CwATE-MA).
 
-The project, that I'm currently working on is [CWCT-MA](https://github.com/CzompiSoftware/CWCT-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) or [CzomPack](https://github.com/CzompiSoftware/CzomPack))
+The project, that I'm currently working on is [CwATE-MA](https://github.com/CzompiSoftware/CwATE-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) or [CzomPack](https://github.com/CzompiSoftware/CzomPack))
 
 I’m currently learning 
 - using [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui) for mobile and desktop application development,
@@ -19,9 +19,9 @@ I’m currently learning
   <img src="https://img.shields.io/static/v1?label=&message=.NET%205.0&color=0a4591&style=flat-square" alt=".NET 5.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=.NET%206.0&color=0a4591&style=flat-square" alt=".NET 6.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=.NET%207.0&color=0a4591&style=flat-square" alt=".NET 7.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=.NET%208.0%20Preview&color=0a4591&style=flat-square" alt=".NET 8.0 Preview"/>
+  <img src="https://img.shields.io/static/v1?label=&message=.NET%208.0%20Preview&color=0a4591&style=flat-square" alt=".NET 8.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=C%23%2011.0&color=0a4591&style=flat-square" alt="C# 11.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=C%23%2012.0%20Preview&color=0a4591&style=flat-square" alt="C# 12.0 Preview"/>
+  <img src="https://img.shields.io/static/v1?label=&message=C%23%2012.0%20Preview&color=0a4591&style=flat-square" alt="C# 12.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=ASP.NET%20Core%20-%20Blazor&color=0a4591&style=flat-square" alt="ASP.NET Core - Blazor"/>
   <img src="https://img.shields.io/static/v1?label=&message=ASP.NET%20Core%20-%20MinimalAPI&color=0a4591&style=flat-square" alt="ASP.NET Core - MinimalAPI"/>
   <img src="https://img.shields.io/static/v1?label=&message=ASP.NET%20Core%20-%20WebAPI&color=0a4591&style=flat-square" alt="ASP.NET Core - WebAPI"/>
@@ -38,7 +38,7 @@ I’m currently learning
   <img src="https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6aad3d&style=flat-square" alt="Spring Boot"/>
   <img src="https://img.shields.io/static/v1?label=&message=Spring%20Data&color=6aad3d&style=flat-square" alt="Spring Data"/>
   <img src="https://img.shields.io/static/v1?label=&message=Spring%20Security&color=6aad3d&style=flat-square" alt="Spring Security"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Hibernate&color=6aad3d&style=flat-square" alt="Hibernate"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Thymeleaf&color=6aad3d&style=flat-square" alt="Thymeleaf"/>
 </div>
 
 ### Other skills
@@ -65,4 +65,4 @@ I’m currently learning
 </div>
 
 
-###### *You can find my CV at [https://cv.czompi.eu/](https://cv.czompi.eu/).*
+###### *You can find my CV at [https://cv.czompi.hu/en](https://cv.czompi.hu/en).*
