@@ -1,68 +1,87 @@
 # Hi there 👋
 
-My name is David and I'm a 26-years-old undergraduate Computer Science Engineering student at [University of Pécs Faculty of Engineering and Information Technology](https://english.mik.pte.hu/).
+I'm David, a 26-year-old undergraduate Computer Science Engineering student at the [University of Pécs, Faculty of Engineering and Information Technology](https://english.mik.pte.hu/), with a dual focus on **software development** and **systems engineering**.
 
-My specialisation will be application developer, and main expertise is in C# development, where I mainly focus on cross-platform app development by creating desktop apps built on [AvaloniaUI](https://avaloniaui.net/) or creating web applications in [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) (just like this site, if you're reading this on [czompi.eu](https://czompi.hu/en/)).
+I specialize in cross-platform application development using C# and Java, and I manage self-hosted infrastructure and services with tools like Proxmox VE, Docker, and Linux-based networking. Whether it's designing modular software or deploying reliable infrastructure, I enjoy working across the full stack of both development and operations.
 
-Like I mentioned before, this [website](https://czompi.hu/en/) is written by me, and it's powered by ASP.NET Core, currently running on .NET 8.0 - inside an alpine-based docker image -. It's source code [lives here](https://github.com/CzompiSoftware/CwATE-MA).
+---
 
-The project, that I'm currently working on is [CwATE-MA](https://github.com/CzompiSoftware/CwATE-MA) (and its dependencies, like [Markdig.Extensions.Xmd](https://github.com/CzompiSoftware/Markdig.Extensions.Xmd) or [CzomPack](https://github.com/CzompiSoftware/CzomPack))
+## 💻 Software Engineering
 
-I’m currently learning 
-- using [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui) for mobile and desktop application development,
-- and just recently started to dip into the Java webapp world by learning [Spring Framework](https://spring.io) and some of its technologies as well.
+### 🧠 Languages & Frameworks
+- **C# / .NET:** AvaloniaUI, ASP.NET Core (Blazor, WebAPI, MinimalAPI), EF Core, .NET Core
+- **Java:** Spring Boot, Spring Security, Spring Data, Thymeleaf
+- **Others:** Lua, HTML/CSS/JS, SQL, JSON
 
-## Development experience
-### C#
-<div id="csharp-badges">
-  <img src="https://img.shields.io/static/v1?label=&message=.NET%20Core%203.1&color=0a4591&style=flat-square" alt=".NET Core 3.1"/>
-  <img src="https://img.shields.io/static/v1?label=&message=.NET%205.0&color=0a4591&style=flat-square" alt=".NET 5.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=.NET%206.0&color=0a4591&style=flat-square" alt=".NET 6.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=.NET%207.0&color=0a4591&style=flat-square" alt=".NET 7.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=.NET%208.0&color=0a4591&style=flat-square" alt=".NET 8.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=C%23%2011.0&color=0a4591&style=flat-square" alt="C# 11.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=C%23%2012.0%20Preview&color=0a4591&style=flat-square" alt="C# 12.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=ASP.NET%20Core%20-%20Blazor&color=0a4591&style=flat-square" alt="ASP.NET Core - Blazor"/>
-  <img src="https://img.shields.io/static/v1?label=&message=ASP.NET%20Core%20-%20MinimalAPI&color=0a4591&style=flat-square" alt="ASP.NET Core - MinimalAPI"/>
-  <img src="https://img.shields.io/static/v1?label=&message=ASP.NET%20Core%20-%20WebAPI&color=0a4591&style=flat-square" alt="ASP.NET Core - WebAPI"/>
-  <img src="https://img.shields.io/static/v1?label=&message=EF%20Core&color=0a4591&style=flat-square" alt="EF Core"/>
-  <img src="https://img.shields.io/static/v1?label=&message=AvaloniaUI&color=0a4591&style=flat-square" alt="AvaloniaUI"/>
-  <img src="https://img.shields.io/static/v1?label=&message=WPF&color=0a4591&style=flat-square" alt="WPF"/>
-</div>
+### 🧩 Key Projects
+- [**CwATE-MA**](https://github.com/CzompiSoftware/CwATE-MA): A web content management system (WCMS) powered by Microsoft ASP.NET Core  
+- [**CwATE-SB**](https://github.com/CzompiSoftware/CwATE-SB): A web content management system (WCMS) powered by Spring framework  
+- [**CwATE Theme**](https://github.com/CzompiSoftware/CwATE_theme): Theming and UI layer for the CwATE ecosystem
 
-### Java
-<div id="java-badges">
-  <img src="https://img.shields.io/static/v1?label=&message=IntelliJ%20IDEA&color=6aad3d&style=flat-square" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Maven&color=6aad3d&style=flat-square" alt="Maven"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Framework&color=6aad3d&style=flat-square" alt="Spring Framework"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Boot&color=6aad3d&style=flat-square" alt="Spring Boot"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Data&color=6aad3d&style=flat-square" alt="Spring Data"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Spring%20Security&color=6aad3d&style=flat-square" alt="Spring Security"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Thymeleaf&color=6aad3d&style=flat-square" alt="Thymeleaf"/>
-</div>
+#### Supporting libraries:
+- [Markdig.Extensions.Xmdl (C#)](https://github.com/CzompiSoftware/Markdig.Extensions.Xmdl)  
+- [Lua processor for Markdig.Extensions.Xmdl (C#)](https://github.com/CzompiSoftware/Markdig.Extensions.Xmdl.Lua)  
+- [CzomPack (C#)](https://github.com/CzompiSoftware/CzomPack)  
+- [CzomPack (Java)](https://github.com/CzompiSoftware/CzomPack.Java)
 
-### Other skills
-<div id="unordered-badges">
-  <img src="https://img.shields.io/static/v1?label=&message=Full-stack%20development&color=c14f30&style=flat-square" alt="Full-stack development"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Back-end%20development&color=c14f30&style=flat-square" alt="Back-end development"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Computer%20Maintenance&color=c14f30&style=flat-square" alt="Computer Maintenance"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Create%20Read%20Update%20Delete%20%28CRUD%29&color=c14f30&style=flat-square" alt="Create Read Update Delete (CRUD)"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Database%20Management%20System%20%28DBMS%29&color=c14f30&style=flat-square" alt="Database Management System (DBMS)"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=c14f30&style=flat-square" alt="Docker"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Docker%20Compose&color=c14f30&style=flat-square" alt="Docker Compose"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Software%20Development&color=c14f30&style=flat-square" alt="Fullstack development"/>
-  <img src="https://img.shields.io/static/v1?label=&message=JSON&color=c14f30&style=flat-square" alt="JSON"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Microsoft%20Azure&color=c14f30&style=flat-square" alt="Microsoft Azure"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Microsoft%20SQL%20Server&color=c14f30&style=flat-square" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=c14f30&style=flat-square" alt="MySQL"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Object-Oriented%20Programming%20%28OOP%29&color=c14f30&style=flat-square" alt="Object-Oriented Programming (OOP)"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Object-Relational%20Mapping%20%28ORM%29&color=c14f30&style=flat-square" alt="Object-Relational Mapping (ORM)"/>
-  <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=c14f30&style=flat-square" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Programming&color=c14f30&style=flat-square" alt="Programming"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Representational%20State%20Transfer%20%28REST%29&color=c14f30&style=flat-square" alt="Representational State Transfer (REST)"/>
-  <img src="https://img.shields.io/static/v1?label=&message=SQL%20Server%20Management%20Studio&color=c14f30&style=flat-square" alt="SQL Server Management Studio"/>
-  <img src="https://img.shields.io/static/v1?label=&message=Web%20Application%20Development&color=c14f30&style=flat-square" alt="Web Application Development"/>
-</div>
+### 🧪 Tools & Practices
+- Visual Studio, JetBrains Rider, IntelliJ IDEA  
+- GitHub, Git CLI  
+- Docker & Docker Compose  
+- Package hosting: Private NuGet and Maven repositories
 
+### 📚 Currently Exploring
+- Cross-platform mobile/desktop apps with [Microsoft MAUI](https://dotnet.microsoft.com/en-us/apps/maui)  
+- Cloud-native Java development
 
-###### *You can find my CV at [https://cv.czompi.hu/en](https://cv.czompi.hu/en).*
+---
+
+## 🛠️ Systems Engineering
+
+### 🧰 Virtualization & Infrastructure
+- Running [Proxmox VE 8+](https://www.proxmox.com/en/proxmox-ve) (migrated from VMware ESXi in late 2023)  
+- Containerized deployments using Docker  
+- LXC/KVM virtualization with internal and public network segmentation  
+
+### 🌍 Self-Hosted Infrastructure
+I operate a multi-server environment consisting of:
+- A **dedicated server in Germany** for all public-facing production services  
+- A **home production server** for internal services and backups  
+- Multiple **homelab/tinkering servers** for testing, learning, and experiments  
+
+Main services include:
+- Reverse proxy stack (Docker-based)  
+- VPN and DNS servers  
+- Monitoring stack using Grafana and Prometheus  
+- Game server panel for personal use  
+- Dockerized web applications based on CwATE-MA and CwATE-SB  
+- Various custom utilities and containerized tools  
+
+🔎 You can find an overview of my setup here:  
+**[Hardware & Infrastructure Overview](https://czompi.hu/en-us/hardware-overview)**
+
+### 🔐 Security Measures
+- Hardware & software firewalls  
+- Container isolation, access control, and segmented networks  
+- System-level monitoring and alerting for proactive defense
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Czompi&show_icons=true&theme=default&hide=prs&count_private=true" alt="My GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czompi&layout=compact&hide=html&theme=default" alt="Top languages" />
+</p>
+
+---
+
+## 📎 Useful Links
+
+- 📄 [CV](https://cv.czompi.hu/en-us)  
+- 🌐 [Personal Website](https://czompi.hu/en-us)  
+- 🖥️ [Hardware & Infrastructure Overview](https://czompi.hu/en-us/hardware-overview)  
+- 💼 [GitHub Organization](https://github.com/CzompiSoftware)  
+- 👤 [Personal GitHub](https://github.com/Czompi)
+
+> Thanks for stopping by! I'm always open to new collaborations, ideas, and interesting technical conversations—especially around .NET, Java, systems automation, and homelab infrastructure.
