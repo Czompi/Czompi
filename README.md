@@ -19,7 +19,7 @@ I’m currently learning
   <img src="https://img.shields.io/static/v1?label=&message=.NET%205.0&color=0a4591&style=flat-square" alt=".NET 5.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=.NET%206.0&color=0a4591&style=flat-square" alt=".NET 6.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=.NET%207.0&color=0a4591&style=flat-square" alt=".NET 7.0"/>
-  <img src="https://img.shields.io/static/v1?label=&message=.NET%208.0%20Preview&color=0a4591&style=flat-square" alt=".NET 8.0"/>
+  <img src="https://img.shields.io/static/v1?label=&message=.NET%208.0&color=0a4591&style=flat-square" alt=".NET 8.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=C%23%2011.0&color=0a4591&style=flat-square" alt="C# 11.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=C%23%2012.0%20Preview&color=0a4591&style=flat-square" alt="C# 12.0"/>
   <img src="https://img.shields.io/static/v1?label=&message=ASP.NET%20Core%20-%20Blazor&color=0a4591&style=flat-square" alt="ASP.NET Core - Blazor"/>
